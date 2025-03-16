@@ -1,0 +1,6 @@
+public enum ColumnType {
+    INICIAL,
+    PENDENTE,
+    CANCELAMENTO,
+    FINAL
+}
